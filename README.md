@@ -16,6 +16,8 @@
 ![Alt text](https://github.com/ertcs/flutter_contact_app/blob/master/screenshot/1010.PNG)
 ![Alt text](https://github.com/ertcs/flutter_contact_app/blob/master/screenshot/1011.PNG)
 
+![Watch the video](http://img.youtube.com/vi/-vmgeE1nZkM/maxresdefault.jpg)](https://youtu.be/-vmgeE1nZkM)
+
 
 ## Getting Started
 
